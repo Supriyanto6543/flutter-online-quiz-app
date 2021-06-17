@@ -2,7 +2,7 @@
 
 This is fully functional Flutter Quiz App created by Flutter, Dart, PHP and MySql. In this app user can register, login, take a quiz and play it, store score to database, display score, reward achievements and more.
 
-### Watch this tutorial on Udemy
+### <a href="https://www.udemy.com/course/flutter-php-and-mysql-build-online-quiz-with-admin-panel/">Watch this tutorial on Udemy</a>
 Click image below to watch full tutorial build online quiz using flutter and php, download admin panel and more.
 
 #### Final Project of Online Quiz App
