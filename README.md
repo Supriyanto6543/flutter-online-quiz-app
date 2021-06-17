@@ -11,3 +11,34 @@ Click image below to watch full tutorial build online quiz using flutter and php
 </p>
 
 ### Curriculum of this course
+<ul><li>Introduction</li></ul>
+
+>1. Introduction
+
+<ul><li>Setup Project</li></ul>
+
+>1. Must Download and Read First
+>2. Download Admin Panel Template
+>3. Setup Project
+
+<ul><li>Setup Admin Panel</li></ul>
+
+>1. Create Connection for Login Admin
+>2. Create Operation Category using PHP and MySqli
+>3. View Operation Category using PHP and MySqli
+>4. Edit Operation Category using PHP and MySqli
+>5. Delete Operation Category using PHP and MySqli
+
+<ul><li>Create API for Online Quiz</li></ul>
+
+>1. What is API?
+>2. Function that We Used to Create API
+>3. Create Category API using PHP
+>4. Create Leaderboards API using PHP
+>5. Testing Leaderboards API
+>6. Create Quiz API using PHP
+>7. Create Badge API using PHP
+>8. Create GetPhoto API using PHP
+
+### And so much, for view full curriculum click image above
+
